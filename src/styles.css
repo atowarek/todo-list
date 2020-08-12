@@ -1,0 +1,56 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  border: 2px solid lightblue;
+  margin: 40px auto;
+  background: linear-gradient(#aefff4, #246ab9);
+  padding: 40px;
+  border-radius: 8px;
+  height: auto;
+  min-height: 60vh;
+  width: 40%;
+}
+
+.button {
+  margin: 16px;
+  padding: 8px;
+  background-color: lightgrey;
+  text-align: center;
+  text-transform: uppercase;
+  border-radius: 8px;
+}
+
+input {
+  font-size: 1em;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+.exercise-item {
+  /* border: 1px solid lightseagreen;
+  margin: 10px;
+  padding: 12px; */
+  width: 80%;
+}
+.exercise-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  text-align: center;
+}
+
+.btn-delete {
+  width: 35px;
+  /*padding: 5px;*/
+  height: 35px;
+  /* cursor: pointer; */
+  background: salmon;
+  border-radius: 10px;
+  color: white;
+  font-size: 18px;
+}
