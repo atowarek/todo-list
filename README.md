@@ -1,5 +1,5 @@
 https://todo-list-anna.vercel.app/
 
-# todo-list
-#### Created with CodeSandbox.
-#### DEployed with Vercel.
+##### This is a very simple todo-list app. 
+###### Created with CodeSandbox.
+###### Deployed with Vercel.
